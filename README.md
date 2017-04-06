@@ -1,0 +1,2 @@
+# Parkinsons-Disease----Support-Vector-Classifier----Machine-Learning-University-of-Oxford-Intel-
+This is a support vector classifier to determine if speech patterns can predict if a subject has Parkinsons Disease. The data is from the UCI repository, and it is provided by The University of Oxford in collaboration with Intel. 'Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection', Little MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM. BioMedical Engineering OnLine 2007, 6:23 (26 June 2007)
